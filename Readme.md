@@ -41,6 +41,7 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop
 
 ## Program:
+
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -63,7 +64,10 @@ public class Rotate : MonoBehaviour
 ```
 
 ## Output:
+
 ![alt text](<Screenshot 2025-04-29 103055.png>)
+
 ## Result:
+
 The 3D application for rotating the gaming objects in unity is executed sucessfully.
  
